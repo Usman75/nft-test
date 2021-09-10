@@ -1,0 +1,174 @@
+{
+  "metadata": [
+      {
+        "id": 1,
+        "dna": "030602020202",
+        "name": "#1",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/1.png",
+        "edition": 1,
+        "date": 1631273384095,
+        "attributes": [
+          { "name": "grey eye ball" },
+          { "name": "cyan big" },
+          { "name": "large" },
+          { "name": "shapes" },
+          { "name": "high bottom" },
+          { "name": "high top" }
+        ]
+      },
+      {
+        "id": 2,
+        "dna": "040102020202",
+        "name": "#2",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/2.png",
+        "edition": 2,
+        "date": 1631273384526,
+        "attributes": [
+          { "name": "red eye ball" },
+          { "name": "red small super rare" },
+          { "name": "large" },
+          { "name": "shapes" },
+          { "name": "high bottom" },
+          { "name": "high top" }
+        ]
+      },
+      {
+        "id": 3,
+        "dna": "040702020202",
+        "name": "#3",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/3.png",
+        "edition": 3,
+        "date": 1631273384958,
+        "attributes": [
+          { "name": "red eye ball" },
+          { "name": "cyan small" },
+          { "name": "large" },
+          { "name": "shapes" },
+          { "name": "high bottom" },
+          { "name": "high top" }
+        ]
+      },
+      {
+        "id": 4,
+        "dna": "050502020202",
+        "name": "#4",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/4.png",
+        "edition": 4,
+        "date": 1631273385323,
+        "attributes": [
+          { "name": "white eye ball" },
+          { "name": "purple small rare" },
+          { "name": "large" },
+          { "name": "shapes" },
+          { "name": "high bottom" },
+          { "name": "high top" }
+        ]
+      },
+      {
+        "id": 5,
+        "dna": "050402020202",
+        "name": "#5",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/5.png",
+        "edition": 5,
+        "date": 1631273385734,
+        "attributes": [
+          { "name": "white eye ball" },
+          { "name": "purple big rare" },
+          { "name": "large" },
+          { "name": "shapes" },
+          { "name": "high bottom" },
+          { "name": "high top" }
+        ]
+      },
+      {
+        "id": 6,
+        "dna": "030102020202",
+        "name": "#6",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/6.png",
+        "edition": 6,
+        "date": 1631273386101,
+        "attributes": [
+          { "name": "grey eye ball" },
+          { "name": "red small super rare" },
+          { "name": "large" },
+          { "name": "shapes" },
+          { "name": "high bottom" },
+          { "name": "high top" }
+        ]
+      },
+      {
+        "id": 7,
+        "dna": "020301010101",
+        "name": "#7",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/7.png",
+        "edition": 7,
+        "date": 1631273386528,
+        "attributes": [
+          { "name": "green eye ball rare" },
+          { "name": "pink small rare" },
+          { "name": "medium rare" },
+          { "name": "shapes rare" },
+          { "name": "tilted bottom rare" },
+          { "name": "low top rare" }
+        ]
+      },
+      {
+        "id": 8,
+        "dna": "010201010101",
+        "name": "#8",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/8.png",
+        "edition": 8,
+        "date": 1631273386920,
+        "attributes": [
+          { "name": "eye ball rare" },
+          { "name": "pink big rare" },
+          { "name": "medium rare" },
+          { "name": "shapes rare" },
+          { "name": "tilted bottom rare" },
+          { "name": "low top rare" }
+        ]
+      },
+      {
+        "id": 9,
+        "dna": "010301010101",
+        "name": "#9",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/9.png",
+        "edition": 9,
+        "date": 1631273387320,
+        "attributes": [
+          { "name": "eye ball rare" },
+          { "name": "pink small rare" },
+          { "name": "medium rare" },
+          { "name": "shapes rare" },
+          { "name": "tilted bottom rare" },
+          { "name": "low top rare" }
+        ]
+      },
+      {
+        "id": 10,
+        "dna": "050100000000",
+        "name": "#10",
+        "description": "This is an NFT made by the coolest generative code.",
+        "image": "https://darkrise.win/metadata/10.png",
+        "edition": 10,
+        "date": 1631273387717,
+        "attributes": [
+          { "name": "white eye ball" },
+          { "name": "red small super rare" },
+          { "name": "small super rare" },
+          { "name": "shapes super rare" },
+          { "name": "low bottom super rare" },
+          { "name": "tilted top super rare" }
+        ]
+      }
+    ]
+}
